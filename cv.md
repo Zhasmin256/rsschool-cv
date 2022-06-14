@@ -37,7 +37,9 @@ print(summ)
 ## Courses:
 
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
+
 Code Basics «HTML for beginners» (finished)
+
 Code Basics «CSS for beginners» (finished)
 
 ## Languages:
